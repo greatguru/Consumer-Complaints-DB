@@ -73,7 +73,7 @@ Complaints Questions
 
 ## Summary of Findings
 
-From the analyzed so far, here are some of the valuable insights from a dataset provided by the CFPB (Consumer Financial Protection Bureau). Let's explore the findings discovered along the analyst's journey.
+From the analysis carried out, here are some of the valuable insights from the dataset provided by the CFPB (Consumer Financial Protection Bureau). Let's explore the findings discovered along this journey.
 
 1.	The first revelation came in the form of the number of complaints received and sent by the CFPB on the same day, amounting to a total of 28,737. This statistic highlights the CFPB's active involvement in addressing consumer grievances promptly and efficiently.
 
@@ -95,7 +95,7 @@ From the analyzed so far, here are some of the valuable insights from a dataset 
 
 10.	Narrowing down to a specific product, the analyst determined that California had the most complaints received regarding "student loans" in the product name field, with a total of 163 complaints. This finding sheds light on the challenges faced by students and borrowers in the state's educational and financial landscape, calling for measures to alleviate the burdens
 
-11.	Finally, the analyst explored the companies with the most consumer disputes marked as "yes." Bank of America took the lead with 1,069 consumer disputes, followed closely by Equifax with 962 disputes. These findings suggest areas where consumers experienced dissatisfaction with the services provided by these companies, highlighting the importance of effective dispute resolution mechanisms.
+11.	Finally, the analysis explored the companies with the most consumer disputes marked as "yes." Bank of America took the lead with 1,069 consumer disputes, followed closely by Equifax with 962 disputes. These findings suggest areas where consumers experienced dissatisfaction with the services provided by these companies, highlighting the importance of effective dispute resolution mechanisms.
 
 ## Conlusion
 
